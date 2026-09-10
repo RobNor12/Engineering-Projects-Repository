@@ -389,10 +389,8 @@ This project reinforced several practical administration concepts:
 
 ### 🏗️ Repository Structure
 
-*   **[🧱 assets/](assets/)** 🛠️
+*   [🧱 assets/](assets/)
     *   Contains the infrastructure "blueprints," including `smb.conf` configurations.
-*   **[📖 documentation/](documentation/)** 🖼️
-    *   Contains screenshots, diagrams, and other evidence of the completed environment.
 
 ---
 
